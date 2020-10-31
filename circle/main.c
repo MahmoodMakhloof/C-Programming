@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -6,7 +7,7 @@ int main()
 	float R;
 	char x;
 
-	printf("Enter radius : ");
+	printf("radios is : ");
 	fflush(stdin); fflush(stdout);
 	scanf("%f",&R);
 	printf("Enter 'a' for area or 'c' for circumference : ");
